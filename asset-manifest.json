@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/My-Art-Gallery_react_app/static/css/main.9c0a4101.css",
+    "main.js": "/My-Art-Gallery_react_app/static/js/main.b4d9dc1c.js",
+    "static/js/453.ed3810f9.chunk.js": "/My-Art-Gallery_react_app/static/js/453.ed3810f9.chunk.js",
+    "static/media/sukuna-purple-5120x2880-16958.png": "/My-Art-Gallery_react_app/static/media/sukuna-purple-5120x2880-16958.555d4de9f9ae8fd2cb28.png",
+    "static/media/satoru-gojo-purple-3840x2160-16581.png": "/My-Art-Gallery_react_app/static/media/satoru-gojo-purple-3840x2160-16581.2139a92c30656200aa3e.png",
+    "static/media/goku-amoled-super-3840x2160-12116.png": "/My-Art-Gallery_react_app/static/media/goku-amoled-super-3840x2160-12116.cf0f6b446e010a52df5f.png",
+    "static/media/mob-psycho-100-3840x2160-16205.png": "/My-Art-Gallery_react_app/static/media/mob-psycho-100-3840x2160-16205.3039866469650e32c461.png",
+    "static/media/goku-chibi-dragon-3840x2160-13232.png": "/My-Art-Gallery_react_app/static/media/goku-chibi-dragon-3840x2160-13232.98e165ed7e469fb20bc9.png",
+    "static/media/Dragonball.jpg": "/My-Art-Gallery_react_app/static/media/Dragonball.f8478ab1e58871af15fa.jpg",
+    "static/media/killua doodle.jpg": "/My-Art-Gallery_react_app/static/media/killua doodle.e87a77ef09c623bc2800.jpg",
+    "static/media/catoru gojo.jpg": "/My-Art-Gallery_react_app/static/media/catoru gojo.918765d2c9f3c450f456.jpg",
+    "static/media/The Batman.png": "/My-Art-Gallery_react_app/static/media/The Batman.5fb06e56a65fac59b84d.png",
+    "static/media/super cat profile icon.png": "/My-Art-Gallery_react_app/static/media/super cat profile icon.940e71756794e46fa30e.png",
+    "static/media/Yuta Okkotsu.jpg": "/My-Art-Gallery_react_app/static/media/Yuta Okkotsu.8d09a9fb19031966df33.jpg",
+    "static/media/download (3).jpg": "/My-Art-Gallery_react_app/static/media/download (3).3db48c795925910e0a26.jpg",
+    "static/media/itadori _33.jpg": "/My-Art-Gallery_react_app/static/media/itadori _33.2fd0cea1977c92513349.jpg",
+    "index.html": "/My-Art-Gallery_react_app/index.html",
+    "main.9c0a4101.css.map": "/My-Art-Gallery_react_app/static/css/main.9c0a4101.css.map",
+    "main.b4d9dc1c.js.map": "/My-Art-Gallery_react_app/static/js/main.b4d9dc1c.js.map",
+    "453.ed3810f9.chunk.js.map": "/My-Art-Gallery_react_app/static/js/453.ed3810f9.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9c0a4101.css",
+    "static/js/main.b4d9dc1c.js"
+  ]
+}
