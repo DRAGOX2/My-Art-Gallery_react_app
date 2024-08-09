@@ -1,0 +1,62 @@
+.Head 
+{
+text-align: center;
+vertical-align: auto;
+background-color: rgb(59, 0, 86);
+mix-blend-mode:hard-light;
+}
+.catoru,.satoru,.yuta,.itadori,.Sukuna,.killua
+{
+  height:150px;
+  width: 150px;
+}
+.image1,.image2,.image3,.image4,.image5,.image6
+{
+  font-size: smaller;
+  align-content: space-between;
+  font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+  font-weight: normal;
+  font-variant: normal;
+  font-style: normal;
+  mix-blend-mode:hard-light;
+  color: antiquewhite;
+}
+.images,.images2
+{
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
+  justify-content: center;
+  gap: 40px;
+}
+
+.OPTION
+{
+  border: 2px solid rgb(156, 165, 165);
+ color: #333;
+ padding: 3px;
+ border-radius: 5px;
+ font-size: medium;
+ outline: none;
+ appearance: none;
+ -webkit-appearance: none;
+ cursor: pointer;  
+ transition: border-color 0.3s; 
+}
+.OPTION:hover,.OPTION:focus
+{
+  border-color: rgb(134, 144, 144);
+  background-color: rgb(22, 25, 25);
+}
+.OPTION:hover
+{
+  background-color: rgb(22, 25, 25);
+  color: rgb(183, 175, 175);
+}/* 
+background-image: url(./Images/GOJO\ sensi.jpg);
+  
+  
+background-repeat: no-repeat;
+background-position: center;
+background-attachment: fixed;
+background-size: cover;
+background-color: blanchedalmond;/* Extra background add  {Its for Index}*/ 
